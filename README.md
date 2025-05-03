@@ -3,6 +3,9 @@
 
 A simple web app that helps users find recipes based on ingredients using the Spoonacular API. This app provides an intuitive search functionality where users can enter ingredients, and it returns a list of recipes that can be made with those ingredients.
 
+## Demo
+https://recipe-finder-nine-phi.vercel.app/
+
 ## Features
 
 - **Search recipes by ingredients:** Enter ingredients you have, and the app will display a list of recipes you can make.
